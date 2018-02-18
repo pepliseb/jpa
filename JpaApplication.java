@@ -10,6 +10,7 @@ public class JpaApplication {
 		SpringApplication.run(JpaApplication.class, args);
 
 		System.out.println("Ala mam kota 2 ");
+		System.out.println("Ala mam kota 2 ");
 
 
 	}
