@@ -9,7 +9,7 @@ public class JpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JpaApplication.class, args);
 
-		System.out.println("Ala mam kota");
+		System.out.println("Ala mam kota 2 ");
 
 
 	}
